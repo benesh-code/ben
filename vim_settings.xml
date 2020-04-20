@@ -15,7 +15,14 @@
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1587370531550">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1587371123065">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
     <jumps />
   </component>
   <component name="VimRegisterSettings">
